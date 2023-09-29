@@ -106,7 +106,7 @@ de ejemplo, siempre y cuando se cumpla con la funcionalidades
 solicitadas. Por ejemplo, las columnas pueden tener una orientación
 distinta a la mostrada, ocultarse dentro de un menú, etc.
 
-##CODIGO SQL PARA CREAR LA DB
+## CODIGO SQL PARA CREAR LA DB
 CREATE DATABASE APPD;
 USE APPD;
 
